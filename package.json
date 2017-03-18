@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "angular-tour-of-heroes",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "Criação de tutorial do angular com personalização para fixação do aprendizado.",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
@@ -21,7 +21,7 @@
     "lint": "tslint ./src/**/*.ts -t verbose"
   },
   "keywords": [],
-  "author": "",
+  "author": "Victor Aparecido",
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~2.4.0",
